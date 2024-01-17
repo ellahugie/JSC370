@@ -1,1 +1,1 @@
-# JSC370
+# testing editing the README
